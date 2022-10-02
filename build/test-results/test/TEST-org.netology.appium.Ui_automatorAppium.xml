@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.netology.appium.Ui_automatorAppium" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-03-25T16:08:38" hostname="DESKTOP-FFE8NAN" time="4.647">
+  <properties/>
+  <testcase name="TestNewActivity()" classname="org.netology.appium.Ui_automatorAppium" time="2.303"/>
+  <testcase name="TestEmptyText()" classname="org.netology.appium.Ui_automatorAppium" time="2.344"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[мар. 25, 2022 7:08:38 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>
